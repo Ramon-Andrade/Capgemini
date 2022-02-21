@@ -1,1 +1,0 @@
-Abrir no browser o arquio escada.html
